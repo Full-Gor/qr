@@ -24,6 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0F0F23"
       },
+      "kotlinVersion": "1.9.25",
       "permissions": [
         "CAMERA",
         "READ_CONTACTS",
